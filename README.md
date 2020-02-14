@@ -1,5 +1,10 @@
 # MobileWebContentDevWeek2
 
+You can check out the webpage here http://webpage.pace.edu/ab40133n/week%202/
+
+This was an assignment which was as follows:
+
+Assignments: Ultra Corporation Web Page
 
 Create a new responsive web page for the fictional Ultra Corporation. The page should try to sell the reader something. If your first assignment's web page was responsive, you can start with that instead. Give the page a 3-column layout, and make its layout responsive to the width of the browser, so that the page looks good on smaller browsers, and uses a 1-column layout on phones.
 
